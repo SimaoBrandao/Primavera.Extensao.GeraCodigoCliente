@@ -1,4 +1,4 @@
-# 🧩 Extensão Primavera v10 – Geração Automática de Código de Cliente
+# 🧩 Extensibilidade do Primavera v10 – Geração Automática de Código de Cliente
 
 ## 📘 Descrição
 
