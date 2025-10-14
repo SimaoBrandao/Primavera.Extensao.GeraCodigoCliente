@@ -20,7 +20,7 @@ Esta extensão para o **ERP Primavera v10** (módulo **Marketing & Vendas**) tem
 | Item | Descrição |
 |------|------------|
 | **Linguagem** | C# |
-| **Framework** | .NET Framework 4.6.1 |
+| **Framework** | .NET Framework 4.7.2 |
 | **Referências Primavera** | |
 | → Interop.ErpBS100.dll | Biblioteca principal do ERP Primavera |
 | → Interop.StdPlatBS100.dll | Plataforma base do sistema |
