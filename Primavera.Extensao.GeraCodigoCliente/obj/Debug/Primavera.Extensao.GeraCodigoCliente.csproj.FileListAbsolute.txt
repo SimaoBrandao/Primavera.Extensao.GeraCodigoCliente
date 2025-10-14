@@ -1,0 +1,4 @@
+C:\Users\Brandão\Desktop\Primavera.Extensao.GeraCodigoCliente\Primavera.Extensao.GeraCodigoCliente\bin\Debug\Primavera.Extensao.GeraCodigoCliente.dll
+C:\Users\Brandão\Desktop\Primavera.Extensao.GeraCodigoCliente\Primavera.Extensao.GeraCodigoCliente\bin\Debug\Primavera.Extensao.GeraCodigoCliente.pdb
+C:\Users\Brandão\Desktop\Primavera.Extensao.GeraCodigoCliente\Primavera.Extensao.GeraCodigoCliente\obj\Debug\Primavera.Extensao.GeraCodigoCliente.dll
+C:\Users\Brandão\Desktop\Primavera.Extensao.GeraCodigoCliente\Primavera.Extensao.GeraCodigoCliente\obj\Debug\Primavera.Extensao.GeraCodigoCliente.pdb

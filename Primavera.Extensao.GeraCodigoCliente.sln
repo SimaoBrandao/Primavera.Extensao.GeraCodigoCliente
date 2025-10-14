@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primavera.Extensao.GeraCodigoCliente", "Primavera.Extensao.GeraCodigoCliente\Primavera.Extensao.GeraCodigoCliente.csproj", "{8035A88D-C02C-4971-96E5-8DF74F8D193E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8035A88D-C02C-4971-96E5-8DF74F8D193E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8035A88D-C02C-4971-96E5-8DF74F8D193E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8035A88D-C02C-4971-96E5-8DF74F8D193E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8035A88D-C02C-4971-96E5-8DF74F8D193E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2032759-6F76-4D80-9730-4357F831D4FD}
+	EndGlobalSection
+EndGlobal
