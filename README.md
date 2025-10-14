@@ -2,7 +2,7 @@
 
 ## 📘 Descrição
 
-Esta extensão para o **ERP Primavera v10** (módulo **Marketing & Vendas**) tem como objetivo **gerar automaticamente o código do cliente** no momento do cadastro, eliminando a necessidade de introdução manual e garantindo uma **numeração sequencial e consistente**.
+Sempre me incomodou ter de preencher manualmente o código do cliente ao registar um novo cliente no **Primavera v10**. Então decidi resolver o problema, desenvolvendo esta extensão em C# que **gera automaticamente o código do cliente** no momento do registo, eliminando a necessidade de introdução manual e garantindo uma **numeração sequencial e consistente**. — simples, rápida e sem margem para erro.
 
 ---
 
